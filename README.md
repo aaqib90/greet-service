@@ -24,3 +24,4 @@ The Project is enabled with GITHub Actions CI-CD Workflow. Refer file .github/wo
 - Build the Image and Push the Code to a Docker Registry
 - Deploy the Code to a K8s or OpenShift Cluster
 ```
+
